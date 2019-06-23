@@ -9,13 +9,17 @@
     "react-scripts": "0.9.5"
   },
   "devDependencies": {
-    "gh-pages": "^2.0.1"
+    "braces": "^3.0.2",
+    "gh-pages": "^2.0.1",
+    "js-yaml": "^3.13.1",
+    "mime": "^2.4.4",
+    "webpack-dev-server": "^3.7.2"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
-	"deploy": "npm run build&&gh-pages -d build"
+    "deploy": "npm run build&&gh-pages -d build"
   }
 }
