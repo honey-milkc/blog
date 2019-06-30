@@ -1,0 +1,35 @@
+#div-header {
+    font-size: 50px;
+    font-weight: bolder;
+    color: white;
+    line-height: 80px;
+    vertical-align:middle;
+    background-color: silver;
+}
+
+#span-logo {
+    display: inline-block;
+    max-width: 100px;
+}
+
+#span-red-big {
+    color: red;
+    font-weight: bolder;
+    font-size: 40px;
+}
+
+#span-blue {
+    color: blue;
+}
+
+#main-img {
+    max-width: 100%;
+    height: auto;
+}
+
+#div-h3-header {
+    font-size: 28px;
+    font-weight: bolder;
+    color: white;
+    background-color: black;
+}

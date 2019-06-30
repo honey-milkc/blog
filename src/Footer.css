@@ -1,0 +1,29 @@
+#triangle-left {
+    width: 0;
+    height: 0;
+    border-top: 10px solid transparent;
+    border-right: 20px solid black;
+    border-bottom: 10px solid transparent;
+}
+
+#triangle-right {
+    width: 0;
+    height: 0;
+    border-top: 10px solid transparent;
+    border-left: 20px solid black;
+    border-bottom: 10px solid transparent;
+}
+
+#span-button {
+    display: inline-block;
+    width:20px;
+    height:20px;
+    cursor: pointer;
+}
+
+.bottom-button {
+    width: 98%; 
+    height: 20px;
+    padding: 5px;
+    text-align: right;
+}
